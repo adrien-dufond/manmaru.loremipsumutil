@@ -1,6 +1,7 @@
 /**
 	Utilities for generate lorem ipsum text.
-	Inspired from CASA Lib / AS 2.0 (v.10/06/08) - Aaron Clinger, David Nelson
+	Inspired from CASA Lib / AS 2.0 (v.10/06/08) 
+	Copyright (c) 2008, Aaron Clinger & Contributors of CASA Lib
 	
 	@author Adrien Dufond - manmaru, Inc.
 	@src https://github.com/adrien-dufond/manmaru
